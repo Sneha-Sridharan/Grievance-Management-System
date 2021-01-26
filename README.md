@@ -13,3 +13,9 @@ complaints and status
 4) Admin module – Login, View and assign complaints, View redressed complaints
 
 - We have used WATIR to test our application because the Grievance Management System is a web application that can run on any browser.
+
+# Domain
+Web Development, Database Management
+
+# Software Used
+HTML, CSS, JavaScript, PHP, MySQL, WAMP Server
