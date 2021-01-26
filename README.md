@@ -1,6 +1,6 @@
 # Grievance-Management-System
 
-- The Grievances Management System is a common portal for the institution that facilitates students and faculties to lodge/register their complaints regarding various grievances such as lack of availability of lab equipment, sanitation issues, suggestions for lecture timetables, lack of facilities in classroom etc. 
+- The Grievances Management System is a common portal for the institution that facilitates students and professors to lodge/register their complaints regarding various grievances such as lack of availability of lab equipment, sanitation issues, suggestions for lecture timetables, lack of facilities in classroom etc. 
 - A Redressal Committee will handle and redress the registered grievances. This committee will be headed by a moderator (admin) who will allocate the grievances to be redresses to various members and also monitor the status or progress of redressal. 
 
 # The system has 4 modules
