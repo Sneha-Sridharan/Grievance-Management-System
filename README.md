@@ -9,8 +9,8 @@
 complaints and status
 2) Faculty module – Login, Add complaints, Delete complaints, View registered
 complaints and status
-3) Member module – Login, View assigned complaints
-4) Admin module – Login, View and assign complaints, View redressed complaints
+3) Member module – Login, View assigned complaints, Change status of assigned complaints
+4) Admin module – Login, View and assign complaints, View Assigned Complaints and its status and add comments, View redressed complaints
 
 - We have used WATIR to test our application because the Grievance Management System is a web application that can run on any browser.
 
